@@ -1,0 +1,36 @@
+.mypictures{
+    margin: 10px 50px;
+    background-color: whitesmoke;
+
+}
+.mypictures img{
+    transition: 1.8s;
+    padding: 26px;
+    width: 180px;
+}
+.mypictures img:hover{
+    filter: grayscale(100%);
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
